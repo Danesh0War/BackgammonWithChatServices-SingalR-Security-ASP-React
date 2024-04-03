@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="linearGradient17247" gradientUnits="userSpaceOnUse" x1="160" y1="20" x2="167.66879" y2="26.418293" gradientTransform="matrix(24.35221, 0, 0, 24.352221, -3646.528841, -235.338131)" xlink:href="#linearGradient4682"/>
+    <linearGradient id="linearGradient4682">
+      <stop style="stop-color:#dedbc6;stop-opacity:1" offset="0" id="stop4684"/>
+      <stop style="stop-color:#fbf9f5;stop-opacity:1" offset="1" id="stop4686"/>
+    </linearGradient>
+    <linearGradient id="linearGradient17249" gradientUnits="userSpaceOnUse" x1="170.89241" y1="16.689192" x2="149.5" y2="17.575741" gradientTransform="matrix(24.35221, 0, 0, 24.352221, -3646.528841, -235.338131)" xlink:href="#linearGradient15470"/>
+    <linearGradient id="linearGradient15470">
+      <stop style="stop-color:#b7b4a5;stop-opacity:1" offset="0" id="stop15472"/>
+      <stop style="stop-color:#dedcae;stop-opacity:1" offset="1" id="stop15474"/>
+    </linearGradient>
+  </defs>
+  <circle d="m 170,20 c 0,5.522847 -4.47715,10 -10,10 -5.52285,0 -10,-4.477153 -10,-10 0,-5.522847 4.47715,-10 10,-10 5.52285,0 10,4.477153 10,10 z" cx="249.824" cy="251.706" r="243.522" id="circle16728" style="fill: url(#linearGradient17247); fill-opacity: 1; stroke: url(#linearGradient17249);"/>
+</svg>

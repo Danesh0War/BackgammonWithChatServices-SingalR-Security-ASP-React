@@ -1,0 +1,27 @@
+.lobby {
+  width: 150vh;
+  height: 80vh;
+  background-color: #f2dab1;
+  align-items: center;
+  justify-content: center;
+}
+.game {
+  display: flex;
+}
+.showUsers {
+  display: flex;
+}
+.space {
+  padding: 10vh;
+}
+.lobby-wating {
+  text-align: center;
+  font-size: 30px;
+}
+.helpBtn {
+  margin-bottom: 5px;
+}
+.rulesLink {
+  font-size: 25px;
+  color: rgb(0, 0, 238);
+}

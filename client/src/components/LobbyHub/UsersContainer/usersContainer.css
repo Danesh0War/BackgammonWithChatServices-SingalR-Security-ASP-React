@@ -1,0 +1,57 @@
+.user-list p {
+  font-size: 23px;
+  text-align: center;
+  color: #eadac2; 
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8); 
+}
+.user-list {
+  width: 25vh;
+  height: 80vh;
+  float: left;
+  background-color: #3b3d41;
+  color: #eadac2;
+  padding: 10px;
+}
+.online-user {
+  cursor: pointer;
+}
+.offline-user {
+  color: #eadac2;
+}
+.circle {
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+  margin: 7px;
+}
+.on {
+  background-color: rgb(155, 236, 34);
+}
+.off {
+  background-color: rgb(110, 108, 108);
+}
+.play {
+  background-color: rgb(80, 131, 226);
+}
+.user {
+  display: flex;
+}
+.user:hover {
+  font-size: 20px;
+  font-weight: bold;
+}
+.inChat {
+  background-color: gray;
+  padding: 0px 10%;
+  border-radius: 20px;
+}
+.usersOfflineTitle {
+  font-size: 23px;
+  color: rgb(219, 42, 42);
+  font-weight: bold;
+}
+.usersOnlineTitle {
+  font-size: 23px;
+  color: rgb(47, 255, 75);
+  font-weight: bold;
+}
