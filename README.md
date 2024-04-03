@@ -22,5 +22,10 @@ A web-based backgammon game featuring real-time chat functionality. Developed us
 1. Run the Server solution (TalkBack.UI profile - port 5000/5001).
 2. Run the client using a terminal with the `npm start` command (will automatically open the client in a browser on port 3000).
 
+![MongoChats](https://github.com/Danesh0War/BackgammonWithChatServices-SingalR-Security-ASP-React/assets/139206365/bfe3fc03-e8b9-4203-b202-df43a4c57420)
+![MongoUsers](https://github.com/Danesh0War/BackgammonWithChatServices-SingalR-Security-ASP-React/assets/139206365/3bffd749-ba59-4ca6-8745-8c541dd19e0b)
+![LoginHub](https://github.com/Danesh0War/BackgammonWithChatServices-SingalR-Security-ASP-React/assets/139206365/770d32e5-7ff5-46d1-88b3-e71010a91526)
+![ChatHub](https://github.com/Danesh0War/BackgammonWithChatServices-SingalR-Security-ASP-React/assets/139206365/d15af574-1efc-4c28-9c6c-402ea5613ecf)
+![GameHub](https://github.com/Danesh0War/BackgammonWithChatServices-SingalR-Security-ASP-React/assets/139206365/87265101-dd08-4850-9c68-80a4c0a23142)
 
 
